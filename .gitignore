@@ -1,0 +1,6 @@
+# Unreal Engine temporary files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
