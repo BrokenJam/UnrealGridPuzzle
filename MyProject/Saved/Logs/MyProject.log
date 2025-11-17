@@ -2811,3 +2811,251 @@ Script Stack (0 frames) :
 [2025.11.17-03.17.38:246][724]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
 [2025.11.17-03.17.38:246][724]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
 [2025.11.17-03.17.38:247][724]AssetCheck: /Game/Interactables/PuzzleUI/BP_HUD Validating asset
+[2025.11.17-03.19.14:257][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1038.123047
+[2025.11.17-03.19.15:257][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.17-03.19.15:257][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1038.789551, Update Interval: 328.378540
+[2025.11.17-03.22.56:229][193]Cmd: DELETE
+[2025.11.17-03.22.56:231][193]Cmd: ACTOR DELETE
+[2025.11.17-03.22.56:255][193]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.17-03.22.56:281][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.11.17-03.22.56:287][193]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.11.17-03.24.44:982][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.17-03.24.45:104][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.11.17-03.24.45:129][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.11.17-03.24.45:151][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.11.17-03.24.45:325][219]SourceControl: Error: Updated 0 paths from the index
+[2025.11.17-03.24.45:446][219]SourceControl: rm 'MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/TV/DYUIEBPX2N8UFXT326WX2O.uasset'
+[2025.11.17-03.24.45:463][219]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/JD/OCW0UZT4ANZZD9YHEAOMAP
+[2025.11.17-03.24.45:463][219]LogSavePackage: Moving '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Saved/OCW0UZT4ANZZD9YHEAOMAP851D6D7440C78C97C888F8B7026FC999.tmp' to '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/JD/OCW0UZT4ANZZD9YHEAOMAP.uasset'
+[2025.11.17-03.24.45:470][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 486.941 ms (total: 2.73 sec)
+[2025.11.17-03.24.45:499][219]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.17-03.24.45:499][219]LogContentValidation: Enabled validators:
+[2025.11.17-03.24.45:499][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.17-03.24.45:499][219]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.17-03.24.45:499][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.17-03.24.45:499][219]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.17-03.24.45:499][219]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.17-03.24.45:499][219]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.17-03.24.45:499][219]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2025.11.17-03.24.45:499][219]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2025.11.17-03.24.45:499][219]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.11.17-03.24.54:727][354]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1378.594727
+[2025.11.17-03.24.55:727][357]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.17-03.24.55:727][357]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1379.261719, Update Interval: 359.745483
+[2025.11.17-03.25.48:907][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.17-03.25.48:950][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.11.17-03.25.48:976][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.11.17-03.25.48:997][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.11.17-03.25.49:011][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.014 ms (total: 2.84 sec)
+[2025.11.17-03.25.49:838][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.11.17-03.25.52:749][413]LogSlate: Window 'Save Content' being destroyed
+[2025.11.17-03.25.52:860][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.17-03.25.52:889][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/ArrowDown] ([1] browsable assets)...
+[2025.11.17-03.25.52:889][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/ArrowDown]
+[2025.11.17-03.25.52:889][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/ArrowDown" FILE="../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/ArrowDown.uasset" SILENT=true
+[2025.11.17-03.25.52:899][413]LogSavePackage: Moving output files for package: /Game/Sprites/ArrowDown
+[2025.11.17-03.25.52:899][413]LogSavePackage: Moving '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Saved/ArrowDown4373EACA45EB864CA5877C94ACC2A17F.tmp' to '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/ArrowDown.uasset'
+[2025.11.17-03.25.52:901][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/ArrowLeft] ([1] browsable assets)...
+[2025.11.17-03.25.52:901][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/ArrowLeft]
+[2025.11.17-03.25.52:901][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/ArrowLeft" FILE="../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/ArrowLeft.uasset" SILENT=true
+[2025.11.17-03.25.52:909][413]LogSavePackage: Moving output files for package: /Game/Sprites/ArrowLeft
+[2025.11.17-03.25.52:909][413]LogSavePackage: Moving '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Saved/ArrowLeftB244CD6A426876194FE89C839815D6F0.tmp' to '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/ArrowLeft.uasset'
+[2025.11.17-03.25.52:910][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/ArrowRight] ([1] browsable assets)...
+[2025.11.17-03.25.52:910][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/ArrowRight]
+[2025.11.17-03.25.52:910][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/ArrowRight" FILE="../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/ArrowRight.uasset" SILENT=true
+[2025.11.17-03.25.52:917][413]LogSavePackage: Moving output files for package: /Game/Sprites/ArrowRight
+[2025.11.17-03.25.52:918][413]LogSavePackage: Moving '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Saved/ArrowRightEA5865EB4A8079ABDF40118E03FDCC88.tmp' to '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/ArrowRight.uasset'
+[2025.11.17-03.25.52:920][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/ArrowUp] ([1] browsable assets)...
+[2025.11.17-03.25.52:920][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/ArrowUp]
+[2025.11.17-03.25.52:920][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/ArrowUp" FILE="../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/ArrowUp.uasset" SILENT=true
+[2025.11.17-03.25.52:925][413]LogSavePackage: Moving output files for package: /Game/Sprites/ArrowUp
+[2025.11.17-03.25.52:927][413]LogSavePackage: Moving '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Saved/ArrowUpC6922BF1491F8E01532C0F9FDCC18F27.tmp' to '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/ArrowUp.uasset'
+[2025.11.17-03.25.52:928][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Room1] ([1] browsable assets)...
+[2025.11.17-03.25.52:928][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Room1]
+[2025.11.17-03.25.52:928][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Room1" FILE="../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room1.uasset" SILENT=true
+[2025.11.17-03.25.52:936][413]LogSavePackage: Moving output files for package: /Game/Sprites/Room1
+[2025.11.17-03.25.52:936][413]LogSavePackage: Moving '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Saved/Room1851BAEE74525B110804919801EF36922.tmp' to '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room1.uasset'
+[2025.11.17-03.25.52:937][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Room2] ([1] browsable assets)...
+[2025.11.17-03.25.52:937][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Room2]
+[2025.11.17-03.25.52:937][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Room2" FILE="../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room2.uasset" SILENT=true
+[2025.11.17-03.25.52:945][413]LogSavePackage: Moving output files for package: /Game/Sprites/Room2
+[2025.11.17-03.25.52:945][413]LogSavePackage: Moving '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Saved/Room26009850C4A9EE2B2187DA8B4E3B027DA.tmp' to '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room2.uasset'
+[2025.11.17-03.25.52:946][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Room3] ([1] browsable assets)...
+[2025.11.17-03.25.52:946][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Room3]
+[2025.11.17-03.25.52:946][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Room3" FILE="../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room3.uasset" SILENT=true
+[2025.11.17-03.25.52:953][413]LogSavePackage: Moving output files for package: /Game/Sprites/Room3
+[2025.11.17-03.25.52:953][413]LogSavePackage: Moving '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Saved/Room3CDD5A883477B189E7ECFC89F033A2AA5.tmp' to '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room3.uasset'
+[2025.11.17-03.25.52:954][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Room4] ([1] browsable assets)...
+[2025.11.17-03.25.52:954][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Room4]
+[2025.11.17-03.25.52:954][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Room4" FILE="../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room4.uasset" SILENT=true
+[2025.11.17-03.25.52:963][413]LogSavePackage: Moving output files for package: /Game/Sprites/Room4
+[2025.11.17-03.25.52:963][413]LogSavePackage: Moving '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Saved/Room450F38B1F4D96979EEF88878BA05B103C.tmp' to '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room4.uasset'
+[2025.11.17-03.25.52:964][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Room5] ([1] browsable assets)...
+[2025.11.17-03.25.52:964][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Room5]
+[2025.11.17-03.25.52:964][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Room5" FILE="../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room5.uasset" SILENT=true
+[2025.11.17-03.25.52:973][413]LogSavePackage: Moving output files for package: /Game/Sprites/Room5
+[2025.11.17-03.25.52:973][413]LogSavePackage: Moving '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Saved/Room54A6F45C94E3CE0C6B1B6B580AF1293B1.tmp' to '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room5.uasset'
+[2025.11.17-03.25.52:974][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Room6] ([1] browsable assets)...
+[2025.11.17-03.25.52:975][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Room6]
+[2025.11.17-03.25.52:975][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Room6" FILE="../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room6.uasset" SILENT=true
+[2025.11.17-03.25.52:982][413]LogSavePackage: Moving output files for package: /Game/Sprites/Room6
+[2025.11.17-03.25.52:982][413]LogSavePackage: Moving '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Saved/Room61D4947234BFB2C70E5155D821A314ED1.tmp' to '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room6.uasset'
+[2025.11.17-03.25.52:983][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Room7] ([1] browsable assets)...
+[2025.11.17-03.25.52:983][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Room7]
+[2025.11.17-03.25.52:983][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Room7" FILE="../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room7.uasset" SILENT=true
+[2025.11.17-03.25.52:990][413]LogSavePackage: Moving output files for package: /Game/Sprites/Room7
+[2025.11.17-03.25.52:990][413]LogSavePackage: Moving '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Saved/Room7B00683BE4EF13B8C304039ACA98FE50B.tmp' to '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room7.uasset'
+[2025.11.17-03.25.52:991][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Room8] ([1] browsable assets)...
+[2025.11.17-03.25.52:991][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Room8]
+[2025.11.17-03.25.52:991][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Room8" FILE="../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room8.uasset" SILENT=true
+[2025.11.17-03.25.52:998][413]LogSavePackage: Moving output files for package: /Game/Sprites/Room8
+[2025.11.17-03.25.52:998][413]LogSavePackage: Moving '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Saved/Room8DAD019B040176182E673AF93D1B6DFE5.tmp' to '../../../../../../Users/Spood/Documents/GitHub/UnrealGridPuzzle/MyProject/Content/Sprites/Room8.uasset'
+[2025.11.17-03.25.53:159][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 299.706 ms (total: 3.13 sec)
+[2025.11.17-03.25.53:205][413]LogStall: Shutdown...
+[2025.11.17-03.25.53:205][413]LogStall: Shutdown complete.
+[2025.11.17-03.25.53:276][413]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:276][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:284][413]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:284][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:332][413]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:332][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:339][413]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:339][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:382][413]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:382][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:429][413]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2025.11.17-03.25.53:501][413]LogContentValidation: Display: Starting to validate 12 assets
+[2025.11.17-03.25.53:501][413]LogContentValidation: Enabled validators:
+[2025.11.17-03.25.53:501][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.17-03.25.53:501][413]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.17-03.25.53:501][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.17-03.25.53:501][413]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.17-03.25.53:501][413]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.17-03.25.53:501][413]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.17-03.25.53:501][413]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2025.11.17-03.25.53:501][413]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2025.11.17-03.25.53:501][413]AssetCheck: /Game/Sprites/ArrowDown Validating asset
+[2025.11.17-03.25.53:501][413]AssetCheck: /Game/Sprites/ArrowLeft Validating asset
+[2025.11.17-03.25.53:501][413]AssetCheck: /Game/Sprites/ArrowRight Validating asset
+[2025.11.17-03.25.53:501][413]AssetCheck: /Game/Sprites/ArrowUp Validating asset
+[2025.11.17-03.25.53:501][413]AssetCheck: /Game/Sprites/Room1 Validating asset
+[2025.11.17-03.25.53:501][413]AssetCheck: /Game/Sprites/Room2 Validating asset
+[2025.11.17-03.25.53:501][413]AssetCheck: /Game/Sprites/Room3 Validating asset
+[2025.11.17-03.25.53:501][413]AssetCheck: /Game/Sprites/Room4 Validating asset
+[2025.11.17-03.25.53:501][413]AssetCheck: /Game/Sprites/Room5 Validating asset
+[2025.11.17-03.25.53:501][413]AssetCheck: /Game/Sprites/Room6 Validating asset
+[2025.11.17-03.25.53:501][413]AssetCheck: /Game/Sprites/Room7 Validating asset
+[2025.11.17-03.25.53:501][413]AssetCheck: /Game/Sprites/Room8 Validating asset
+[2025.11.17-03.25.53:535][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.17-03.25.53:553][413]Cmd: QUIT_EDITOR
+[2025.11.17-03.25.53:553][414]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.11.17-03.25.53:560][414]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.11.17-03.25.53:560][414]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.11.17-03.25.53:560][414]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.11.17-03.25.53:562][414]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:563][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:563][414]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.17-03.25.53:572][414]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.11.17-03.25.53:572][414]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.11.17-03.25.53:573][414]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.11.17-03.25.53:575][414]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:575][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:580][414]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:580][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:583][414]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:583][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:586][414]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:586][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:588][414]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:588][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:592][414]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:592][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:594][414]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:594][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:597][414]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:597][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:599][414]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:599][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:602][414]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:602][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:604][414]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:604][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:607][414]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:607][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:609][414]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:609][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:610][414]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:610][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:612][414]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:612][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:615][414]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:615][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:617][414]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-03.25.53:617][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-03.25.53:619][414]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.11.17-03.25.53:619][414]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.11.17-03.25.53:624][414]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.11.17-03.25.53:670][414]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.11.17-03.25.53:670][414]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.11.17-03.25.53:670][414]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2025.11.17-03.25.53:670][414]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.11.17-03.25.53:670][414]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.11.17-03.25.53:674][414]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.11.17-03.25.53:680][414]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.11.17-03.25.53:680][414]LogAudio: Display: Audio Device Manager Shutdown
+[2025.11.17-03.25.53:681][414]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.11.17-03.25.53:685][414]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.11.17-03.25.53:688][414]LogExit: Preparing to exit.
+[2025.11.17-03.25.53:731][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.53:734][414]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.17-03.25.54:155][414]LogEditorDataStorage: Deinitializing
+[2025.11.17-03.25.54:286][414]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.17-03.25.54:297][414]LogTextureGraph: UTG_AsyncRenderTaskBase:: FinishDestroy
+[2025.11.17-03.25.54:297][414]LogTextureGraph: UTG_AsyncRenderTaskBase:: FinishDestroy
+[2025.11.17-03.25.54:297][414]LogTextureGraph: UTG_AsyncRenderTaskBase:: FinishDestroy
+[2025.11.17-03.25.54:299][414]LogExit: Editor shut down
+[2025.11.17-03.25.54:301][414]LogExit: Transaction tracking system shut down
+[2025.11.17-03.25.54:349][414]LogTemp: Actor being destructed
+[2025.11.17-03.25.54:432][414]LogExit: Object subsystem successfully closed.
+[2025.11.17-03.25.54:461][414]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.11.17-03.25.54:530][414]LogMixManager: Begin MixManager::Suspend
+[2025.11.17-03.25.54:530][414]LogMixManager: End MixManager::Suspend
+[2025.11.17-03.25.55:531][414]LogTextureGraphEngine: Destroying the TextureGraphEngine!
+[2025.11.17-03.25.55:548][414]LogMemoryProfiler: Shutdown
+[2025.11.17-03.25.55:548][414]LogNetworkingProfiler: Shutdown
+[2025.11.17-03.25.55:548][414]LoadingProfiler: Shutdown
+[2025.11.17-03.25.55:548][414]LogTimingProfiler: Shutdown
+[2025.11.17-03.25.55:548][414]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.11.17-03.25.55:548][414]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.11.17-03.25.55:807][414]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.11.17-03.25.55:812][414]LogNFORDenoise: NFORDenoise function shutting down
+[2025.11.17-03.25.55:812][414]RenderDocPlugin: plugin has been unloaded.
+[2025.11.17-03.25.55:841][414]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.11.17-03.25.55:841][414]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDE10CEBE-4B74-4C09-7ACB-FCA74F934058%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=1ed6e4084f214ae1430c40bc27cccd8f%7C5b16e12e0dd84241b1036dee3238b636%7C7d3bca6a-531d-4240-86a2-a80d1f7a9287&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.11.17-03.25.56:403][414]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.11.17-03.25.56:406][414]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.11.17-03.25.56:406][414]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.11.17-03.25.56:406][414]LogPakFile: Destroying PakPlatformFile
+[2025.11.17-03.25.56:650][414]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.11.17-03.25.56:673][414]LogExit: Exiting.
+[2025.11.17-03.25.56:686][414]Log file closed, 11/17/25 03:25:56
